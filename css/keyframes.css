@@ -1,0 +1,205 @@
+.hero-box span::after {
+  content: "";
+  animation: heading__animation 5s infinite;
+}
+
+@keyframes heading__animation {
+  0% {
+    content: "F";
+  }
+  1.53846153846154% {
+    content: "Fr";
+  }
+  3.07692307692308% {
+    content: "Fre";
+  }
+  4.61538461538462% {
+    content: "Free";
+  }
+  6.15384615384615% {
+    content: "Freel";
+  }
+  7.69230769230769% {
+    content: "Freela";
+  }
+  9.23076923076923% {
+    content: "Freelan";
+  }
+  10.7692307692308% {
+    content: "Freelanc";
+  }
+  12.3076923076923% {
+    content: "Freelance";
+  }
+  13.8461538461538% {
+    content: "Freelancer";
+  }
+  15.3846153846154% {
+    content: "Freelancer";
+  }
+  16.9230769230769% {
+    content: "Freelancer";
+  }
+  18.4615384615385% {
+    content: "Freelancer";
+  }
+  20% {
+    content: "Freelancer";
+  }
+  21.5384615384615% {
+    content: "Freelancer";
+  }
+  23.0769230769231% {
+    content: "Freelance";
+  }
+  24.6153846153846% {
+    content: "Freelanc";
+  }
+  26.1538461538462% {
+    content: "Freelan";
+  }
+  27.6923076923077% {
+    content: "Freela";
+  }
+  29.2307692307692% {
+    content: "Freel";
+  }
+  30.7692307692308% {
+    content: "Free";
+  }
+  32.3076923076923% {
+    content: "Fre";
+  }
+  33.8461538461539% {
+    content: "Fr";
+  }
+  35.3846153846154% {
+    content: "F";
+  }
+  36.9230769230769% {
+    content: "D";
+  }
+  38.4615384615385% {
+    content: "De";
+  }
+  40% {
+    content: "Des";
+  }
+  41.5384615384616% {
+    content: "Desi";
+  }
+  43.0769230769231% {
+    content: "Desig";
+  }
+  44.6153846153846% {
+    content: "Design";
+  }
+  46.1538461538462% {
+    content: "Designe";
+  }
+  47.6923076923077% {
+    content: "Designer";
+  }
+  49.2307692307693% {
+    content: "Designer";
+  }
+  50.7692307692308% {
+    content: "Designer";
+  }
+  52.3076923076923% {
+    content: "Designer";
+  }
+  53.8461538461539% {
+    content: "Designe";
+  }
+  55.3846153846154% {
+    content: "Designer";
+  }
+  56.923076923077% {
+    content: "Designe";
+  }
+  58.4615384615385% {
+    content: "Design";
+  }
+  60% {
+    content: "Desig";
+  }
+  61.5384615384616% {
+    content: "Desi";
+  }
+  63.0769230769231% {
+    content: "Des";
+  }
+  64.6153846153847% {
+    content: "De";
+  }
+  66.1538461538462% {
+    content: "D";
+  }
+  67.6923076923077% {
+    content: "D";
+  }
+  69.2307692307693% {
+    content: "De";
+  }
+  70.7692307692308% {
+    content: "Dev";
+  }
+  72.3076923076923% {
+    content: "Deve";
+  }
+  73.8461538461539% {
+    content: "Devel";
+  }
+  75.3846153846154% {
+    content: "Develo";
+  }
+  76.9230769230769% {
+    content: "Develop";
+  }
+  78.4615384615385% {
+    content: "Develope";
+  }
+  80% {
+    content: "Developer";
+  }
+  81.5384615384615% {
+    content: "Developer";
+  }
+  83.0769230769231% {
+    content: "Developer";
+  }
+  84.6153846153846% {
+    content: "Developer";
+  }
+  86.1538461538461% {
+    content: "Developer";
+  }
+  87.6923076923077% {
+    content: "Developer";
+  }
+  89.2307692307692% {
+    content: "Develope";
+  }
+  90.7692307692307% {
+    content: "Develop";
+  }
+  92.3076923076922% {
+    content: "Develo";
+  }
+  93.8461538461538% {
+    content: "Devel";
+  }
+  95.3846153846153% {
+    content: "Deve";
+  }
+  96.9230769230768% {
+    content: "Dev";
+  }
+  98.4615384615384% {
+    content: "De";
+  }
+  99.9999999999999% {
+    content: "D";
+  }
+}
