@@ -58,13 +58,6 @@ h2 {
   font-size: 2rem;
 }
 
-img {
-  width: 11rem;
-  height: 11rem;
-  object-fit: contain;
-  margin: auto;
-}
-
 .qouteTest {
   height: 80vh;
 }
